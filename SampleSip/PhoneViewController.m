@@ -158,8 +158,6 @@ static PhoneViewController *phone = nil;
         [cell.contentView addSubview:imageView];
     }
    
-    
-    
     return cell;
 }
 @end
